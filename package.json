@@ -1,9 +1,9 @@
 {
-  "name": "clevy",
+  "name": "cleve",
   "version": "1.0.0",
   "description": "Open sourced Discord chat bot powered by brainshop.ai",
   "main": "index.js",
-  "author": "Carbowix",
+  "author": "LolekLiam",
   "license": "MIT",
   "repository": {
     "type": "git",
