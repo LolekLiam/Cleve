@@ -1,0 +1,14 @@
+{
+    "bot_token": "ODA5Njg3NzE5NDI0NDI1OTk0.YCYucw.FhKNvwEDfstMsgLckZuBxmeK6RE",
+    "status": {
+        "state": "idle",
+        "type": "PLAYING",
+        "name": "Chat simulator"
+    },
+    "chat": {
+        "url": "http://api.brainshop.ai/get",
+        "brainID": "159173",
+        "key": "ob37IEZSmKSnCx6Q",
+        "channel": "<discord channel ID here>"
+    }
+}
